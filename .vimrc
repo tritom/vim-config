@@ -38,6 +38,9 @@ Plugin 'scrooloose/nerdcommenter'
 " Super File Search
 Plugin 'https://github.com/kien/ctrlp.vim'
 
+" Color scheme
+Plugin 'jacoborus/tender.vim'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
